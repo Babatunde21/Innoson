@@ -28,7 +28,7 @@
     color: black;
 }
 .b-1{
-    background-image: url(./ivm\ 3.jpeg);
+    background-image: url(../img/ivm\ 3.jpeg);
     background-size: cover;
 }
 .nav-side{
@@ -92,11 +92,11 @@
     transition: 5S;
 }
 .fourth{
-    background-image: url(./ikenga.jpg);
+    background-image: url(../img/ikenga.jpg);
     background-size: cover;
 }
 .fifth{
-    background-image: url(./caris\ 2.jpg);
+    background-image: url(../img/caris\ 2.jpg);
     background-size: cover;
 }
 .sixth{
