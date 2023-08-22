@@ -13,7 +13,7 @@
     color: white;
 }
 .nav-a{
-    padding-left: 13rem;
+    padding-left: 20px;  
     text-decoration: none;
    
 }
@@ -28,8 +28,8 @@
     color: black;
 }
 .b-1{
-    background-image: url(../img/ivm\ 3.jpeg);
-    background-size: cover;
+    /* background-image: url(../img/ivm\ 3.jpeg);
+    background-size: cover; */
 }
 .nav-side{
     padding-left: 21rem;
@@ -104,7 +104,7 @@
     background-size: cover;
 }
 .seventh{
-    background-image: url(./caris.png);
+    background-image: url(../img/caris.png);
     background-size: cover;
 }
 .footer{
